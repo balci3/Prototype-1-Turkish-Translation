@@ -1,25 +1,105 @@
-# Prototype 1 Fan-made Turkish Localization Project
+<p align="center">
+  <img src="images/card.png" alt="Prototype 1 Turkish Translation">
+</p>
 
-A comprehensive Turkish localization project for Prototype 1.
+<h1 align="center">
+Prototype 1 Turkish Translation
+</h1>
 
-## Translated Content
+<p align="center">
+Fan-made Turkish Localization Project
+</p>
 
-✅ Story dialogues
+---
 
-✅ NPC conversations
+## About
 
-✅ Military responses
+This project aims to provide a comprehensive Turkish localization for Prototype 1.
 
-✅ Radio communications
+The translation includes story content, NPC dialogues, military communications, radio conversations, interface elements, tutorials, subtitles, objectives, and various in-game texts.
+
+---
+
+## Translation Coverage
+
+✅ Main Story
+
+✅ Side Missions
+
+✅ NPC Dialogues
+
+✅ Military Communications
+
+✅ Radio Conversations
+
+✅ Tutorials
+
+✅ Interface Elements
+
+✅ Map Locations
+
+✅ In-Game Objectives
 
 ✅ Subtitles
 
-✅ Mission texts
+---
 
-✅ Interface texts
+## Screenshots
 
-✅ Miscellaneous in-game texts
+### Gameplay
 
-## Project Goal
+![Gameplay](images/gameplay_1.png)
 
-To provide Turkish players with a complete and immersive gameplay experience.
+![Gameplay](images/gameplay_2.png)
+
+![Gameplay](images/gameplay_3.png)
+
+![Gameplay](images/gameplay_4.png)
+
+### HUD
+
+![HUD](images/hud.png)
+
+### Map
+
+![Map](images/map.png)
+
+### Subtitles
+
+![Subtitles](images/subtitle.png)
+
+---
+
+## Known Limitations
+
+The original game font does not support Turkish-specific characters.
+
+Affected characters:
+
+- Ç → C
+- Ğ → G
+- İ → I
+- Ö → O
+- Ş → S
+- Ü → U
+
+This limitation originates from the original game's font system.
+
+---
+
+## Installation
+
+1. Download the latest release.
+2. Extract the archive.
+3. Copy the files into your Prototype installation directory.
+4. Launch the game.
+
+---
+
+## Disclaimer
+
+Prototype and all related trademarks, assets, and intellectual property belong to their respective owners.
+
+This repository contains a fan-made Turkish localization project created for educational and community purposes.
+
+No ownership of the original game is claimed.
