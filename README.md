@@ -1,2 +1,25 @@
-# Prototype-1-Turkish-Translation
-Complete Turkish localization project for Prototype 1, aiming to provide a fully translated and immersive gameplay experience.
+# Prototype 1 Fan-made Turkish Localization Project
+
+A comprehensive Turkish localization project for Prototype 1.
+
+## Translated Content
+
+✅ Story dialogues
+
+✅ NPC conversations
+
+✅ Military responses
+
+✅ Radio communications
+
+✅ Subtitles
+
+✅ Mission texts
+
+✅ Interface texts
+
+✅ Miscellaneous in-game texts
+
+## Project Goal
+
+To provide Turkish players with a complete and immersive gameplay experience.
